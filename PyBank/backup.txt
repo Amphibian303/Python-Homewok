@@ -1,0 +1,36 @@
+# Read in budget data CSV into a list
+
+import: csv 
+    
+f = open('budget_data.csv', r)
+
+# for record in budget data CSV list (for loop)
+    
+    #The total number of months included in the dataset
+    
+    #The net total amount of Profit/Losses over the entire period
+total_profit = 
+average_changes = 
+greatest_increse
+greatest_decrease
+    
+    #The average of the changes in Profit/Losses over the entire period.
+    
+    #The greatest increase in profits (date and amount) over the entire period.
+    
+    #The greatest decrease in losses (date and amount) over the entire period.
+    
+
+# set total months variable equal to lengh of budget data CSV list
+
+
+
+# initialize variable, total profit
+
+
+
+# initialize variable, adverage changes
+
+
+
+# initialize variable, greatest increase and decrease
